@@ -37,6 +37,10 @@ The implementation is provided in a Jupyter Notebook, which you can explore and 
    - Load the binary input files.
    - Execute the decompilation using the LLM4Decompile model.
    - Compare the results with the original source code.
+  
+   
+   Example Output:
+ ![image](https://github.com/user-attachments/assets/7333e29b-ac3b-4271-8cef-3813415dcbea)
 
 ---
 
